@@ -2,7 +2,7 @@ puts "Who are you inviting?"
 guest_name = gets.chomp 
 puts "What is your party going to be called?"
 party_name = gets.chomp 
-puts "When is the party"
+puts "When is the party?"
 date = gets.chomp 
 puts "What time is the party?"
 time = gets.chomp 
